@@ -1,4 +1,4 @@
-# Large Movie Review Dataset Sentiment Analysis Using Multinomial Naive Bayes Model: 
+# Movie Review Sentiment Analysis Using Multinomial Naive Bayes
 
 ### A. Method:
 
