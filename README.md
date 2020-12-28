@@ -37,7 +37,11 @@ We then compare our predicted values with the actual labels, and observe that we
 
 #### Classification Report:
 
+![lassification Report](http://url/to/img.png)
+
 #### Confusion Matrix:
+
+![Confusion Matrix](http://url/to/img.png)
 
 ##### True Positive: 9875/25000 = 39.5% 
 
