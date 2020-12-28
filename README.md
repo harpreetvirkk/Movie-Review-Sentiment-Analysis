@@ -37,11 +37,11 @@ We then compare our predicted values with the actual labels, and observe that we
 
 #### Classification Report:
 
-![lassification Report](http://url/to/img.png)
+![lassification Report](https://github.com/harpreetvirkk/Movie-Review-Sentiment-Analysis/blob/main/img/cr.png)
 
 #### Confusion Matrix:
 
-![Confusion Matrix](http://url/to/img.png)
+![Confusion Matrix](https://github.com/harpreetvirkk/Movie-Review-Sentiment-Analysis/blob/main/img/cm.png)
 
 ##### True Positive: 9875/25000 = 39.5% 
 
